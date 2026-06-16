@@ -1,2 +1,2 @@
-# pku-phy-volleyball.github.io
-The page of the volleyball team, School of Physics, Peking University
+# welcome!
+This is the page of the volleyball team, [School of Physics](https://www.phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
