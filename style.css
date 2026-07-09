@@ -107,6 +107,7 @@ html {
   object-fit: cover;
   border: none;
   display: block;
+  margin: 0 auto;
 }
 
 .position-tag {
@@ -149,7 +150,7 @@ html {
 }
 
 .news-list {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 .news-item {
