@@ -13,7 +13,7 @@ html {
   border-radius: 8px;
   background: var(--main-color);
   padding: 0 32px;
-  height: 30px;
+  height: 36px;
 }
 .nav-links {
   display: flex;
@@ -72,6 +72,7 @@ html {
   overflow: hidden;
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   background: var(--card-bg);
+  text-align: center;
 }
 .members-table thead {
   background: var(--main-color);
@@ -79,7 +80,7 @@ html {
 }
 .members-table th {
   padding: 14px 18px;
-  text-align: left;
+  text-align: center;
   font-weight: 600;
   border: none;
 }
@@ -100,8 +101,8 @@ html {
 }
 
 .member-photo {
-  width: 150px;
-  height: 200px;
+  width: 180px;
+  height: 240px;
   border-radius: 6px;
   object-fit: cover;
   border: none;
