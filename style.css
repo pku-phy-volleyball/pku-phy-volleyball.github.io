@@ -2,6 +2,10 @@
   --main-color: #beece2;
 }
 
+html {
+  font-size: 22px;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -39,7 +43,6 @@
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-  font-size: 15px;
   background: #fff;
 }
 .training-table thead {
@@ -97,18 +100,19 @@
 }
 
 .member-photo {
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
+  width: 150px;
+  height: 200px;
+  border-radius: 6px;
   object-fit: cover;
-  border: 2px solid var(--border-subtle);
+  border: none;
+  display: block;
 }
 
 .position-tag {
   display: inline-block;
   padding: 3px 10px;
   border-radius: 12px;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: 500;
   background: var(--main-color);
   color: var(--accent-color);
