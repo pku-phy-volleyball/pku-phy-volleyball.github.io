@@ -206,7 +206,7 @@ html {
   padding: 24px 0;
   border-bottom: 1px solid var(--border-subtle);
 }
-.news-item:last-child {
+.news-list:last-child .news-item {
   border-bottom: none;
 }
 .news-header {
